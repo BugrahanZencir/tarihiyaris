@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="122" viewBox="0 0 122 122">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e612df"/>
+      <stop offset="0" stop-color="#91244f"/>
+      <stop offset="1" stop-color="#ff5e00"/>
+      <stop offset="1" stop-color="#5f0973"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="100.826" height="86" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="96" height="86" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-340 -252)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(340 252)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="60.5" fill="none"/>
+    </g>
+    <g id="Component_4_3" data-name="Component 4 – 3" transform="translate(351 270)" clip-path="url(#clip-path)">
+      <g id="Logo" transform="translate(-90 -284)">
+        <g id="Symbol_1_1" data-name="Symbol 1 – 1" transform="translate(90 284)" clip-path="url(#clip-path-2)">
+          <text id="Ney" transform="translate(3 33)" fill="#fff" font-size="37" font-family="CurlzMT, Curlz MT"><tspan x="0" y="0">Ney</tspan></text>
+          <text id="_Dedi" data-name=" Dedi" transform="translate(0 77)" fill="#fff" font-size="44" font-family="CurlzMT, Curlz MT"><tspan x="0" y="0" xml:space="preserve"> Dedi</tspan></text>
+        </g>
+        <g id="Group_1" data-name="Group 1" transform="matrix(-0.995, -0.105, 0.105, -0.995, 187.202, 327.195)">
+          <g id="_98db13c8614e7c5cf6158292e5128d1c" data-name="98db13c8614e7c5cf6158292e5128d1c" transform="translate(0 0)">
+            <path id="Path_2" data-name="Path 2" d="M26.015,19.55c.669,3.266,1.023,9.295-5.243,13.13S6.322,34.046,4.107,31.658s-7.8-7.989-.386-16.413c3.11-3.538.064-6.694.683-8.4C5.3,4.375,11.993-.185,13.911.006s2,1.553,2.558,2.707.764,3.11,2.215,2.685,2.813-1.065,4.564-.17.874,3.007,1.981,3.648.191,1.812.191,1.812.913.3,1.061.555-.467.938-.488,1.366,1.826,1,2.671,1.578-3.025,3.538-2.65,5.364Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <text id="_" data-name="?" transform="translate(19.235 12.014) rotate(-180)" fill="#e4741f" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
